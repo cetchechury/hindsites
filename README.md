@@ -7,9 +7,9 @@
 <h3 align="center">
   Hind Sites
 </h3>
-<p align="center">
+
 [![Codeship Status for cetchechury/hindsites](https://app.codeship.com/projects/c4b65390-9c50-0137-a3db-565e75d15121/status?branch=master)](https://app.codeship.com/projects/358799)
-</p>
+
 
 ## Project Summary
 Hind Sites is a review app for historic sites and cultural heritage venues in the Boston, Massachusetts metro area. Serving as a capstone project for Launch Academy {<25>}, the intent of this project project was to demonstrate a working knowledge of React and Rails.
