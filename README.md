@@ -26,4 +26,4 @@ Hind Sites is a review app for historic sites and cultural heritage venues in th
 * Grade? [You tell me](mailto:cetchechury@gmail.com).
 
 ## About the author
-BIO here
+As a former social studies teacher turned computer programmer, I want to support those invested in education to explore state civic standards, with the hope of supporting work that will provide unique, engaging experiences that demonstrate the power of civic awareness and action.
